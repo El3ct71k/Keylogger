@@ -12,15 +12,6 @@ this keylogger captures the screen when the screen was a significant change, and
 
 Requirements:
 ===============
-###Linux Installation:
-1. sudo apt-get install python-dev python-pip
-2. sudo pip install -r requirements.txt
-
-###MacOSx Installation:
-1. Install Xcode Command Line Tools (AppStore)
-2. sudo easy_install pip
-3. sudo pip install -r requirements.txt
-
 ###Windows Installation:
 1. Install [PIL](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pillow)
 2. Install [pyHook](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook)
